@@ -2,5 +2,4 @@
 
 
 * more UI Stuff
-*more server side stuff
 
